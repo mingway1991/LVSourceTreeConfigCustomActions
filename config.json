@@ -1,0 +1,12 @@
+[
+    {
+        "name": "updateTags",
+        "target": "~/Desktop/gitLvmama/SourceTreeScript/updateTags.sh",
+        "params": "$REPO"
+    },
+    {
+        "name": "updatepodcleancache",
+        "target": "~/Desktop/gitLvmama/SourceTreeScript/updatepodcleancache.sh",
+        "params": "$REPO"
+    }
+]
